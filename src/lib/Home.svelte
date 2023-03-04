@@ -5,7 +5,7 @@
 		Get curated show <br class="hidden md:block" /> and movie recommendations
 		<br class="hidden md:block" /> with Open AI
 	</div>
-	<!--
+	
 	<div class="flex flex-wrap items-center mr-auto">
 		<button
 			on:click
@@ -13,6 +13,7 @@
 		>
 			Get recommendations
 		</button>
+		<!--
 		<a
 			href="https://www.youtube.com/watch?v=Z3LrfdctOpU"
 			target="_blank"
@@ -20,6 +21,6 @@
 		>
 			Learn how it's built
 		</a>
+		-->
 	</div>
-	-->
 </div>
