@@ -72,7 +72,7 @@ async function OpenAIStream(payload: OpenAIStreamPayload) {
 export async function POST({ request }: { request: any }) {
 	const { searched } = await request.json();
 	const payload = {
-		model: 'text-curie-001',
+		model: 'text-davinci-003',
 		prompt: searched,
 		temperature: 0.7,
 		max_tokens: 2048,
